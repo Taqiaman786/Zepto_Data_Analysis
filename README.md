@@ -46,6 +46,7 @@ This project contains SQL queries designed to analyze product and inventory data
 The project demonstrates SQL skills including:
 
 •	Database creation
+
 •	Data retrieval
 
 •	Filtering and sorting
