@@ -3,6 +3,7 @@ This project presents a complete SQL-based exploratory data analysis on the Zept
 The project demonstrates practical SQL skills used in real-world retail and e-commerce analytics.
 
 
+
 🎯 Business Objectives
 
 The analysis focuses on solving important business questions such as:
@@ -19,6 +20,8 @@ The analysis focuses on solving important business questions such as:
 
 •	Extracting meaningful retail insights
 
+
+
 Dataset Features
 
 The dataset contains product-level information including:
@@ -34,6 +37,8 @@ The dataset contains product-level information including:
 •	Product Weight
 
 •	Stock Availability
+
+
 
 Overview
 
@@ -53,6 +58,8 @@ The project demonstrates SQL skills including:
 
 •	Inventory insights
 
+
+
 Skills Demonstrated
 
 •	SQL Query Writing
@@ -71,10 +78,10 @@ Skills Demonstrated
 
 •	Data Exploration
 
+
 Database setup
 
 CREATE DATABASE SECOND_PROJECT;
-
 USE SECOND_PROJECT;
 
   
